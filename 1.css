@@ -1,0 +1,60 @@
+h1{
+	color: white ;
+	background-color: purple;
+	font-family: Courier;
+	font-size: 36px;
+	font-weight: lighter;
+}
+
+body{
+	background-color: rgb(230, 230, 230);
+}
+
+#header {
+	width: 150px;
+	border: 5px solid purple;
+	margin: 20px auto;
+}
+
+.img-circle {
+	border-radius: 50%;
+	width: 150px;
+	border: 5px solid red;
+}
+
+.style{
+	background: white;
+	width: 1000px;
+	margin: 40px auto;
+	padding: 30px;
+	border-radius: 4px;
+	box-shadow: 0 10px 30px rgba(0,0,0,.1);
+}
+
+.header{
+	margin: 20px auto;
+	box-shadow: 0 5px 15px rgba(0,0,0,.1);
+	text-align: center;
+
+}
+
+.center{
+	text-align: center;
+}
+
+h2{
+	font-family: "Helvetica", sans-serif;
+}
+
+a{
+	color: black ;
+	font-family: Helvetica;
+	font-size: 24px;
+	font-weight: lighter;
+}
+
+h3{
+	color: purple;
+	font-family: Courier;
+	font-size: 32px;
+}
